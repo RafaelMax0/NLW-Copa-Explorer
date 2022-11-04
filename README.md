@@ -2,6 +2,8 @@
 
 ![preview](./.github/preview.svg)
 
+[JOGOS MERAMENTE ILUSTRATIVOS]
+
 > Trilha Explorer
 Projeto construído do evento Next Level Week da Rocketseat.
 
