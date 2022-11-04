@@ -11,6 +11,11 @@
   --bg: url(./assets/bg-yellow.svg);
 }
 
+@font-face {
+  font-family: Roboto;
+  src: url(/fonts/Roboto-Black.ttf);
+}
+
 body.blue {
   --card-title-border-color: #338af3;
   --card-color-primary: #338af3;
